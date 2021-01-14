@@ -1,5 +1,6 @@
-# Notes
+# Notes/Summary
 
-- This is my notes file for this wonderful lesson!!!
-- Money was a concern, so I raced through this bootcamp. I need to go through more methodically.
-- Each of my forks will have this file.
+
+- Ruby, Javascript, HTML and CSS
+- link to video is broken on site.
+- The most important thing we're going to teach you is how to learn.
